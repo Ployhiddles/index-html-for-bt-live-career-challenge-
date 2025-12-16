@@ -1,0 +1,1 @@
+This project is associated with the Data inspiration Group and BT Stepup Career Challenge by Building Model about prediction in Customer Churn by using CatBoost Classification. Additionally, Using the Confusion Matrix to adjust the accuracy of the model and make Visualisation by Using Plotly.
